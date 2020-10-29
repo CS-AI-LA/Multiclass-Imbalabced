@@ -1,6 +1,8 @@
 # Multiclass-Imbalabced
 
-This repository provides the Matlab code implementation of MDO. MDO or Mahalanobis Distance Over-sampling is presented in the following paper. 
+This repository provides the Matlab code implementation of MDO. 
+MDO or Mahalanobis Distance Over-sampling technique is presented in the following paper. 
+
 
 @article{abdi2015combat,
   title={To combat multi-class imbalanced problems by means of over-sampling techniques},
